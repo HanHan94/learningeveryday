@@ -1,0 +1,43 @@
+<HTML>
+<HEAD>
+<TITLE>System Information Report For cuong</TITLE>
+</HEAD>
+<BODY>
+<H1>System Information Report For cuong</H1>
+<P>Generated 2020年07月22日 午後05時06分11秒 JST, by cuong</P>
+<H2>System Uptime</H2>
+<PRE> 17:07:17 up  1:13,  1 user,  load average: 0.04, 0.01, 0.00</PRE>
+<H2>Disk Space Utilization</H2>
+<PRE>Filesystem      Size  Used Avail Use% Mounted on
+udev            1.9G     0  1.9G   0% /dev
+tmpfs           394M  1.6M  393M   1% /run
+/dev/sda6        14G  3.7G  8.8G  30% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.0G     0  2.0G   0% /sys/fs/cgroup
+/dev/sda1       945M  169M  712M  20% /boot
+/dev/sda7       5.6G  1.9G  3.5G  36% /var
+/dev/loop0      4.3M  4.3M     0 100% /snap/gnome-calculator/544
+/dev/loop2       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/sda5        53G  1.2G   49G   3% /home
+/dev/loop3       55M   55M     0 100% /snap/core18/1754
+/dev/loop1      256M  256M     0 100% /snap/gnome-3-34-1804/36
+/dev/loop4      1.0M  1.0M     0 100% /snap/gnome-logs/81
+/dev/loop5      161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop6      3.8M  3.8M     0 100% /snap/gnome-system-monitor/127
+/dev/loop7      2.5M  2.5M     0 100% /snap/gnome-calculator/748
+/dev/loop9       55M   55M     0 100% /snap/core18/1880
+/dev/loop10      15M   15M     0 100% /snap/gnome-characters/399
+/dev/loop8       45M   45M     0 100% /snap/gtk-common-themes/1440
+/dev/loop11     1.0M  1.0M     0 100% /snap/gnome-logs/100
+/dev/loop12     2.3M  2.3M     0 100% /snap/gnome-system-monitor/148
+/dev/loop13     384K  384K     0 100% /snap/gnome-characters/550
+/dev/loop14      97M   97M     0 100% /snap/core/9665
+/dev/loop15      97M   97M     0 100% /snap/core/9436
+/dev/loop16     162M  162M     0 100% /snap/gnome-3-28-1804/128
+tmpfs           394M   28K  394M   1% /run/user/121
+tmpfs           394M   24K  394M   1% /run/user/1000</PRE>
+<H2>Home Space Utilization</H2>
+<PRE>1.2G	/home/cuong</PRE>
+</BODY>
+</HTML>
